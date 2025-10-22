@@ -1,0 +1,10 @@
+flask
+flask-cors
+python-dotenv
+requests
+sentence-transformers
+scikit-learn
+numpy
+transformers
+torch
+flask-limiter 

@@ -1,0 +1,4 @@
+.env
+venv
+key_embeddings.json
+save_embeddings.py
